@@ -1,4 +1,4 @@
-FROM rancher/cli:v2.0.1
+FROM rancher/cli:v2.0.4
 
 RUN apk add --no-cache curl
 
